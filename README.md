@@ -2,7 +2,6 @@
 
 Welcome to the Top collection Web3 Projects list! This is a collection of fun and easy-to-learn Web3 projects. Whether you're new to Web3 or want to learn more, these projects are perfect for you. Let's get started!
 
----
 
 ## Projects
 
